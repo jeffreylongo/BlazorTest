@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{00FDFF61-E88D-454A-B2FD-2A7248162B89}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorTest/Pages/Counter.razor">
+    <Files>
+      <File FileName="BlazorTest/Pages/Index.razor" Line="1" Column="1" />
+      <File FileName="BlazorTest/Pages/FetchData.razor" Line="8" Column="15" />
+      <File FileName="BlazorTest/Pages/Counter.razor" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlazorTest" expanded="True">
+            <Node name="BlazorTest" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Counter.razor" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Shared" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BlazorTest PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
